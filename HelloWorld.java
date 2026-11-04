@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Ny ændring fra IntelliJ");
+        System.out.println("Anden ændring fra IntelliJ");
     }
 }
